@@ -1,3 +1,3 @@
 # jenkins_challenge_job
-<a href='http://ec2-3-213-217-38.compute-1.amazonaws.com/job/connect-jenkins-to-github/'><img src='http://ec2-3-213-217-38.compute-1.amazonaws.com/buildStatus/icon?job=connect-jenkins-to-github'></a>
+[![Build Status](http://ec2-3-213-217-38.compute-1.amazonaws.com/buildStatus/icon?job=jenkins_challenge_job)](http://ec2-3-213-217-38.compute-1.amazonaws.com/job/jenkins_challenge_job/)
 this should run the pipeline
